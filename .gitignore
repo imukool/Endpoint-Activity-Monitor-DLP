@@ -1,0 +1,12 @@
+# Ignore logs and data
+app_log.txt
+*.log
+
+# Ignore Executables and Builds
+*.exe
+build/
+dist/
+*.spec
+
+# Ignore Python Cache
+__pycache__/
