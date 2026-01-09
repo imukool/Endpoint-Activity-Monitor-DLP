@@ -21,7 +21,7 @@ This project is a host-based security tool designed to monitor endpoint activity
 ## ⚙️ How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Endpoint-Activity-Monitor-DLP.git](https://github.com/YOUR_USERNAME/Endpoint-Activity-Monitor-DLP.git)
+    git clone [https://github.com/imukool/Endpoint-Activity-Monitor-DLP.git](https://github.com/imukool/Endpoint-Activity-Monitor-DLP.git)
     ```
 2.  Install dependencies:
     ```bash
@@ -34,3 +34,4 @@ This project is a host-based security tool designed to monitor endpoint activity
 
 ## ⚠️ Disclaimer
 This software is provided for educational use only. Unauthorized monitoring of users without their consent is a violation of privacy laws. The author assumes no liability for misuse.
+
